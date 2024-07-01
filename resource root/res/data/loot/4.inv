@@ -1,0 +1,12 @@
+{
+ item: coins
+ position: 1
+}
+{
+ item: wand
+ position: 5
+}
+{
+ item: healingpotion
+ position: 9
+}

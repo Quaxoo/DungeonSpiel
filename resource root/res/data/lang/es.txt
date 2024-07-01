@@ -1,0 +1,20 @@
+"error": NO ENCONTRADO
+"music": MUSICA
+"lang": LENGUAJE
+"dagger": DAGA
+"wand": VARITA MAGICA
+"potion": TANQUE MAGICO
+"destroyer": PALO PESADO
+"settings": AJUSTES
+"continue": CONTINUAR JUEGO
+"leave": SALIR DEL JUEGO
+"graphics": GRAFICOS
+"audio": AUDIO
+"fps": FPS
+"sfx": SFX
+"keymissing": NECESITAS UNA LLAVE
+"killsmissing": TODAVIA TIENES QUE / DERROTAR AL MENOS A # ENEMEJOS
+"scrap": CHATTARA
+"coins": MONEDAS
+"artifact": ARTEFACTO DUENDE
+"gem": JOYA

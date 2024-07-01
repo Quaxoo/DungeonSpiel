@@ -1,0 +1,18 @@
+[
+  {
+    "item": "scrap",
+    "probability": 0.25
+  },
+  {
+    "item": "artifact",
+    "probability": 0.03
+  },
+  {
+    "item": "coins",
+    "probability": 0.08
+  },
+  {
+    "item": "gem",
+    "probability": 0.05
+  }
+]

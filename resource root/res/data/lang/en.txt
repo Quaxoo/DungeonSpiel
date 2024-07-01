@@ -1,0 +1,23 @@
+"error": NOT FOUND
+"music": MUSIC
+"lang": LANGUAGE
+"dagger": DAGGER
+"wand": MAGIC WAND
+"destroyer": HEAVY DESTROYER
+"settings": SETTINGS
+"continue": CONTINUE GAME
+"leave": LEAVE GAME
+"graphics": GRAPHICS
+"audio": AUDIO
+"fps": FPS
+"sfx": SFX
+"keymissing": YOU NEED A KEY
+"killsmissing": YOU NEED TO DEFEAT / AT LEAST # MORE ENEMIES
+"scrap": SCRAP
+"coins": COINS
+"artifact": GOBLIN ARTIFACT
+"gem": GEM
+"levelentry": LEVEL #
+"healingpotion": HEALING POTION
+"nightvisionpotion": NIGHTVISION POTION
+"sword": SWORD

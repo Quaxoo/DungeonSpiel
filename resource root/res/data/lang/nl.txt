@@ -1,0 +1,20 @@
+"error": NIET GEVONDEN
+"music": MUZIEK
+"lang": TAAL
+"dagger": DOLK
+"wand": MACHTIGE / TOVERSTOK
+"potion": TOVERDRANK
+"destroyer": ZWARE CLUB
+"settings": INSTELLINGEN
+"continue": SPEL VOORTZETTEN
+"leave": SPEL VERLATEN
+"graphics": GRAFIEK
+"audio": GELUID
+"fps": FPS
+"sfx": SFX
+"keymissing": JE HEBT EEN SLEUTEL / NODIG
+"killsmissing": JE MOET NOG OP HET / MINST # VIJANDEN VERSLAAN
+"scrap": SCHROOT
+"coins": MUNTEN
+"artifact": KOBOLD ARTEFACT
+"gem": EDELSTEEN

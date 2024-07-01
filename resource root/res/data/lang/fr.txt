@@ -1,0 +1,20 @@
+"error": PAS TROUVE
+"music": MUSIQUE
+"lang": LANGUE
+"dagger": DAGUE
+"wand": PUISSANTE BAGUETTE MAGIQUE
+"potion": POTION MAGIQUE
+"destroyer": COULEUR LOURDE
+"settings": PARAMÈTRES
+"continue": CONTINUER LE JEU
+"leave": QUITTER LE JEU
+"graphics": GRAPHIQUE
+"audio": AUDIO
+"fps": FPS
+"sfx": SFX
+"keymissing": TU AS BESOIN DE UN CLE
+"killsmissing": TU DOIS ENCORE / VAINCRE AU MOINS # ENNEMIS
+"scrap": FERRAILLE
+"coins": PIECES
+"artifact": ARTEFACT GOBELIN
+"gem": GEMME

@@ -1,0 +1,10 @@
+up=87;
+down=83;
+left=65;
+right=68;
+inventory=9;
+attack=1;
+language=0;
+music=50;
+sfx=50;
+fps=60;

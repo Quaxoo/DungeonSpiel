@@ -1,0 +1,17 @@
+"error": NINDERST
+"music": MUSI
+"lang": SPROCHE
+"dagger": STECH SÄBEL
+"wand": GEWAPPELTER / MAGIESTOB
+"potion": BIER
+"destroyer": SCHWARES SUPPNBOA
+"settings": OANSTELLUNGA
+"continue": SPUI FORTSETZA
+"leave": DES SPUI IS GRITZT
+"graphics": NAUSSEHEN
+"audio": AUDIO
+"fps": FPS
+"sfx": SFX
+"keymissing": DA BRAUCHT MA A SCHLÜSSEL
+"killsmissing": DU MUSST NO / MINDESTENS # GEGNER ABSTAUBN
+"scrap": PLEMPEL

@@ -1,0 +1,23 @@
+"error": NICHT GEFUNDEN
+"music": MUSIK
+"lang": SPRACHE
+"dagger": DOLCH
+"wand": MÄCHTIGER / ZAUBERSTAB
+"destroyer": SCHWERE KEULE
+"settings": EINSTELLUNGEN
+"continue": SPIEL FORTSETZEN
+"leave": SPIEL VERLASSEN
+"graphics": GRAFIK
+"audio": AUDIO
+"fps": FPS
+"sfx": SFX
+"keymissing": DU BENÖTIGST EINEN SCHLÜSSEL
+"killsmissing": DU MUSST NOCH / MINDESTENS # GEGNER BESIEGEN
+"scrap": SCHROTT
+"coins": MÜNZEN
+"artifact": KOBOLD ARTEFAKT
+"gem": JUWEL
+"healingpotion": TRANK DER / HEILUNG
+"nightvisionpotion": TRANK DER / NACHTSICHT
+"sword": SCHWERT
+"levelentry": LEVEL #

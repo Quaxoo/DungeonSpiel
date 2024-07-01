@@ -1,0 +1,13 @@
+{
+    item: nightvisionpotion
+    position: 1
+}
+{
+    item: destroyer
+    position: 4
+}
+{
+    item: coins
+    position: 12
+    amount: 2
+}

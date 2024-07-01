@@ -1,0 +1,20 @@
+"error": NON TROVATO
+"music": MUSICA
+"lang": LINGUA
+"dagger": PUGNALE
+"wand": BACCHETTA POTENTE
+"potion": SERBATOIO MAGICO
+"destroyer": CLUB PESANTE
+"settings": IMPOSTAZIONI
+"continue": CONTINUA IL GIOCO
+"leave": LASCIARE IL GIOCO
+"graphics": GRAFICA
+"audio": AUDIO
+"fps": FPS
+"sfx": SFX
+"keymissing": HAI BISOGNO DI UNA CHIAVE
+"killsmissing": DEVI ANCORA UCCIDERE / ALMENO # NEMICI
+"scrap": ROTTAME
+"coins": MONETE
+"artifact": MANUFATTO GOBLIN
+"gem": GEMMA
